@@ -1,0 +1,10 @@
+{
+  "leaky_rows": 7888,
+  "fixed_rows": 7043,
+  "leaky_test_overlap": 0.17300380228136883,
+  "fixed_test_overlap": 0.0,
+  "leaky_train_accuracy": 0.9876386687797147,
+  "fixed_train_accuracy": 0.9297124600638977,
+  "fixed_cv_roc_auc_mean": 0.8284294704999622,
+  "fixed_cv_roc_auc_std": 0.014997775447627506
+}

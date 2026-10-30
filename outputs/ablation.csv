@@ -1,0 +1,8 @@
+variant,accuracy,precision,recall,f1,roc_auc
+Clean baseline,0.797,0.6528,0.5027,0.568,0.8332
++ churn_risk_score,0.8126,0.6545,0.623,0.6384,0.8886
++ exit_survey_score,0.9844,1.0,0.9412,0.9697,0.9875
++ duplicate rows,0.8295,0.7235,0.5843,0.6465,0.8823
++ preprocessing on full data,0.7963,0.6505,0.5027,0.5671,0.8334
++ feature selection on full data,0.7956,0.6463,0.508,0.5689,0.8351
+All five bugs together,0.9835,0.9975,0.9406,0.9682,0.9933
